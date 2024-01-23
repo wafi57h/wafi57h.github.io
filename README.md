@@ -8,7 +8,7 @@ I thrive on learning about modern technology. Currently I am student of bachelor
 
 ## 🌐 Explore My Work
 
-### ASSIGNMENT 1: POSTER ON INDUSTRY TALK[blob:https://github.com/565dd3aa-3d14-499e-9f8d-c98210985f26]
+### ASSIGNMENT 1: POSTER ON INDUSTRY TALK[blob:https://565dd3aa-3d14-499e-9f8d-c98210985f26]
 - This is a poster about Overview of ICT jobs.
 
 
