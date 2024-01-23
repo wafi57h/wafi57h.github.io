@@ -10,27 +10,27 @@ I thrive on [learning about modern technology]. Currently [I am student of bache
 
 ### [ASSIGNMENT 1: POSTER ON INDUSTRY TALK](blob:https://github.com/565dd3aa-3d14-499e-9f8d-c98210985f26)
 - This is a poster about Overview of ICT jobs.
-- ![Project Image/GIF](link-to-image-or-gif)
+
 
 ### [ASSIGNMENT 2: VIDEO ON UTM DIGITAL](C:\Users\ASUS\Downloads\Telegram Desktop\video_2024-01-23_17-00-45.mp4)
 - The video show our visit at UTM Digital.
-- ![Project Image/GIF](link-to-image-or-gif)
+
 
 ### [ASSIGNMENT 3: REPORT ON INDUSTRY TALK 2](blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
 - This report describes system development, history, technology and tool use in Credence's system development.
-- ![Project Image/GIF](link-to-image-or-gif)
+
 
 ### [ASSIGNMENT 4: NEWSLETTER ON INDUSTRIAL TALK](file:///C:/Users/ASUS/AppData/Local/Microsoft/Windows/INetCache/IE/K8RZ3C7E/Newletter%20tis[1].pdf)
 - The newsletter talk about technologies and issues discussed in the talk and reflection from the talk.
-- ![Project Image/GIF](link-to-image-or-gif)
+
 
 ### [INITIAL DESIGN THINKING REPORT](blob:https://github.com/8dfb02fb-9808-4ad2-97df-37930d958229)
 - A brief introduction about our initial Design Thinking Report.
-- ![Project Image/GIF](link-to-image-or-gif)
+
   
 ### [DESIGN THINKING REPORT](blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
 - This report solve real life problems for managing expenses.
-- ![Project Image/GIF](link-to-image-or-gif)
+
 
 
 Feel free to navigate through the project folders to explore more!
