@@ -1,61 +1,13 @@
-# Welcome to Abdul Wafi's ePortfolio 🚀
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Wafi bin Suhuri
+=============================================================================================================================================
 
-Hello, I'm Abdul Wafi bin Suhuri, a passionate student with a knack for coding. This is my ePortfolio, where I showcase my journey, and assignments for Technology and Information System course,SECP1515. Dive in to learn more about me and explore the code behind my assignments.
+I am a student of bachelor degree in network and security
+---------------------------------------------------------
 
-## About Me
+I have been learning coding from secondary school and yet still in learning phase.
 
-I thrive on learning about modern technology. Currently I am student of bachelor degree in network and security in Universiti Teknologi Malaysia,UTM,Johor Bahru,Johor.
-
-## 🌐 Explore My Work
-
-### ASSIGNMENT 1: POSTER ON INDUSTRY TALK[blob:https://565dd3aa-3d14-499e-9f8d-c98210985f26]
-- This is a poster about Overview of ICT jobs.
-
-
-### ASSIGNMENT 2: VIDEO ON UTM DIGITAL[C:\Users\ASUS\Downloads\Telegram Desktop\video_2024-01-23_17-00-45.mp4]
-- The video show our visit at UTM Digital.
-
-
-### ASSIGNMENT 3: REPORT ON INDUSTRY TALK 2[blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c]
-- This report describes system development, history, technology and tool use in Credence's system development.
-
-
-### ASSIGNMENT 4: NEWSLETTER ON INDUSTRIAL TALK[file:///C:/Users/ASUS/AppData/Local/Microsoft/Windows/INetCache/IE/K8RZ3C7E/Newletter%20tis[1].pdf]
-- The newsletter talk about technologies and issues discussed in the talk and reflection from the talk.
-
-
-### INITIAL DESIGN THINKING REPORT[blob:https://github.com/8dfb02fb-9808-4ad2-97df-37930d958229]
-- A brief introduction about our initial Design Thinking Report.
-
-  
-### DESIGN THINKING REPORT[blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c]
-- This report solve real life problems for managing expenses.
-
-
-
-Feel free to navigate through the project folders to explore more!
-
-## 📂 Assignment Files
-
-Download and explore my assignments:
-
-- ASSIGNMENT 1: POSTER ON INDUSTRY TALK[blob:https://github.com/565dd3aa-3d14-499e-9f8d-c98210985f26]
-- ASSIGNMENT 2: VIDEO ON UTM DIGITAL[C:\Users\ASUS\Downloads\Telegram Desktop\video_2024-01-23_17-00-45.mp4]
-- ASSIGNMENT 3: REPORT ON INDUSTRY TALK 2[blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c]
-- ASSIGNMENT 4: NEWSLETTER ON INDUSTRIAL TALK[file:///C:/Users/ASUS/AppData/Local/Microsoft/Windows/INetCache/IE/K8RZ3C7E/Newletter%20tis[1].pdf]
-- INITIAL DESIGN THINKING REPORT[blob:https://github.com/8dfb02fb-9808-4ad2-97df-37930d958229]
-- DESIGN THINKING REPORT[blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c]
-
-## 🤝 Collaborate and Contribute
-
-I'm open to collaboration and contributions. 
-
-## 📬 Let's Connect
-
-Connect with me:
-
-- Email: wafiyy223@gmail.com
-
+* 🌍  I'm based in Kuala Lumpur, Malaysia
+* ✉️  You can contact me at [wafiyy223@gmail.com](mailto:wafiyy223@gmail.com)
 
 ### Skills
 
@@ -78,6 +30,7 @@ Connect with me:
 <a href="http://www.github.com/wafi57h"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wafi57h&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/wafi57h"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=wafi57h&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
 Thank you for visiting! 🌟
