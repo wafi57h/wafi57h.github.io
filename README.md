@@ -1,34 +1,34 @@
-# Welcome to [Abdul Wafi]'s ePortfolio 🚀
+# Welcome to Abdul Wafi's ePortfolio 🚀
 
-Hello, I'm [Abdul Wafi bin Suhuri], a passionate [student] with a knack for [coding]. This is my ePortfolio, where I showcase my journey, and assignments for Technology and Information System course,SECP1515. Dive in to learn more about me and explore the code behind my assignments.
+Hello, I'm Abdul Wafi bin Suhuri, a passionate student with a knack for coding. This is my ePortfolio, where I showcase my journey, and assignments for Technology and Information System course,SECP1515. Dive in to learn more about me and explore the code behind my assignments.
 
 ## About Me
 
-I thrive on [learning about modern technology]. Currently [I am student of bachelor degree in network and security in Universiti Teknologi Malaysia,UTM,Johor Bahru,Johor ].
+I thrive on learning about modern technology. Currently I am student of bachelor degree in network and security in Universiti Teknologi Malaysia,UTM,Johor Bahru,Johor.
 
 ## 🌐 Explore My Work
 
-### [ASSIGNMENT 1: POSTER ON INDUSTRY TALK](blob:https://github.com/565dd3aa-3d14-499e-9f8d-c98210985f26)
+### ASSIGNMENT 1: POSTER ON INDUSTRY TALK(blob:https://github.com/565dd3aa-3d14-499e-9f8d-c98210985f26)
 - This is a poster about Overview of ICT jobs.
 
 
-### [ASSIGNMENT 2: VIDEO ON UTM DIGITAL](C:\Users\ASUS\Downloads\Telegram Desktop\video_2024-01-23_17-00-45.mp4)
+### ASSIGNMENT 2: VIDEO ON UTM DIGITAL(C:\Users\ASUS\Downloads\Telegram Desktop\video_2024-01-23_17-00-45.mp4)
 - The video show our visit at UTM Digital.
 
 
-### [ASSIGNMENT 3: REPORT ON INDUSTRY TALK 2](blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
+### ASSIGNMENT 3: REPORT ON INDUSTRY TALK 2(blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
 - This report describes system development, history, technology and tool use in Credence's system development.
 
 
-### [ASSIGNMENT 4: NEWSLETTER ON INDUSTRIAL TALK](file:///C:/Users/ASUS/AppData/Local/Microsoft/Windows/INetCache/IE/K8RZ3C7E/Newletter%20tis[1].pdf)
+### ASSIGNMENT 4: NEWSLETTER ON INDUSTRIAL TALK(file:///C:/Users/ASUS/AppData/Local/Microsoft/Windows/INetCache/IE/K8RZ3C7E/Newletter%20tis[1].pdf)
 - The newsletter talk about technologies and issues discussed in the talk and reflection from the talk.
 
 
-### [INITIAL DESIGN THINKING REPORT](blob:https://github.com/8dfb02fb-9808-4ad2-97df-37930d958229)
+### INITIAL DESIGN THINKING REPORT(blob:https://github.com/8dfb02fb-9808-4ad2-97df-37930d958229)
 - A brief introduction about our initial Design Thinking Report.
 
   
-### [DESIGN THINKING REPORT](blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
+### DESIGN THINKING REPORT(blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
 - This report solve real life problems for managing expenses.
 
 
@@ -39,12 +39,12 @@ Feel free to navigate through the project folders to explore more!
 
 Download and explore my assignments:
 
-- [ASSIGNMENT 1: POSTER ON INDUSTRY TALK](blob:https://github.com/565dd3aa-3d14-499e-9f8d-c98210985f26)
-- [ASSIGNMENT 2: VIDEO ON UTM DIGITAL](C:\Users\ASUS\Downloads\Telegram Desktop\video_2024-01-23_17-00-45.mp4)
-- [ASSIGNMENT 3: REPORT ON INDUSTRY TALK 2](blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
-- [ASSIGNMENT 4: NEWSLETTER ON INDUSTRIAL TALK](file:///C:/Users/ASUS/AppData/Local/Microsoft/Windows/INetCache/IE/K8RZ3C7E/Newletter%20tis[1].pdf)
-- [INITIAL DESIGN THINKING REPORT](blob:https://github.com/8dfb02fb-9808-4ad2-97df-37930d958229)
-- [DESIGN THINKING REPORT](blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
+- ASSIGNMENT 1: POSTER ON INDUSTRY TALK(blob:https://github.com/565dd3aa-3d14-499e-9f8d-c98210985f26)
+- ASSIGNMENT 2: VIDEO ON UTM DIGITAL(C:\Users\ASUS\Downloads\Telegram Desktop\video_2024-01-23_17-00-45.mp4)
+- ASSIGNMENT 3: REPORT ON INDUSTRY TALK 2(blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
+- ASSIGNMENT 4: NEWSLETTER ON INDUSTRIAL TALK(file:///C:/Users/ASUS/AppData/Local/Microsoft/Windows/INetCache/IE/K8RZ3C7E/Newletter%20tis[1].pdf)
+- INITIAL DESIGN THINKING REPORT(blob:https://github.com/8dfb02fb-9808-4ad2-97df-37930d958229)
+- DESIGN THINKING REPORT(blob:https://github.com/0f87207d-a965-4d39-8ac2-f6b86f9ff06c)
 
 ## 🤝 Collaborate and Contribute
 
